@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CodeNoob223
-- 👀 I’m interested in Android App Developing
+- 👀 I’m interested in Unity 2d indie game development
 - 🌱 I’m currently learning fullstack JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: vuongminhquan1262003@gmail.com
 
 <!---
